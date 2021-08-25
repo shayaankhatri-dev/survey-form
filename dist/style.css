@@ -1,0 +1,106 @@
+body{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/1007/293/177/artwork-digital-art-cityscape-futuristic-wallpaper-preview.jpg");
+  color: white;
+  font-family: "Calibri", sans-serif;
+}
+
+
+#intro{
+  margin: 0px auto;
+  text-align: center;
+  color: White;
+  background: rgba(255, 20, 147, 0.6);
+  max-width: 550px;
+  border-radius: 15px;
+}
+
+#survey-form{
+  max-width: 500px;
+  margin: 0px auto;
+  align-items: center;
+  padding: 35px;
+  padding-color: white;
+  background: rgba(255, 20, 147, 0.6);
+  border-radius: 15px;
+}
+
+.personalinfo label{
+  display: block;
+  margin-bottom: 6px;
+}
+
+.personalinfo input{
+  display: block;
+  margin-bottom: 30px;
+  width: 95%;
+  height: 30px;
+  border-radius: 7px;
+}
+
+.personalinfo select{
+  width: 97%;
+  height: 38px;
+  border-radius: 7px;
+}
+
+
+.radio-group{
+  margin-top: 30px;
+}
+
+.radio-group label{
+  display: block;
+  margin-top: 7px;
+}
+
+.radio-group input{
+  margin-right: 7px;
+}
+
+.feature-dropdown{
+  display: block;
+  margin-bottom: 35px;
+  margin-top: 30px;
+}
+
+.feature-dropdown select{
+  margin-top: 7px;
+  width: 97%;
+  height: 38px;
+  border-radius: 7px;
+}
+
+.checkbox{
+  display: block;
+  margin-bottom: 30px;
+}
+
+.checkbox label{
+  display: block;
+  margin-top: 7px;
+}
+
+.checkbox input{
+  margin-right: 8px;
+}
+
+.end{
+  display: block;
+  margin-bottom: 20px;
+}
+
+textarea{
+  width: 95%;
+  height: 100px;
+  margin-top: 7px;
+  border-radius: 7px;
+}
+
+#submit{
+  display: block;
+  margin-top: 30px;
+  width: 96%;
+  height: 40px;
+  color: Black;
+  background-color: Chartreuse ;
+}
